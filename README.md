@@ -1,2 +1,2 @@
-# v1
+# Project v1
 with hardcoded values
